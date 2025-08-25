@@ -3,7 +3,7 @@
 # Apollo-Colab-Inference [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou/Apollo-Colab-Inference/blob/main/Apollo_Audio_Restoration_Colab.ipynb)  
 
 
-*Original work [Apollo: Band-sequence Modeling for High-Quality Music Restoration in Compressed Audio](https://github.com/JusperLee/Apollo)*  
+*Original work [Apollo: Band-sequence Modeling for High-Quality Music Restoration in Compressed Audio](https://github.com/losses/Apollo)*  
 
 Apollo audio restoration Colab fork  
 Original model was trained to restore/enhance lossy mp3 audio with bitrate <= 128 kbps.
